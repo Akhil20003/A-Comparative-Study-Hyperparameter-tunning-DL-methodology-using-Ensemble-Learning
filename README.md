@@ -126,4 +126,12 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 
 ## 🙏 Acknowledgements
 
-Special thanks to SRM University – AP and our guide **Dr. Ashu Abdul** for their continuous support and guidance throughout this project.
+Special thanks to **SRM University – AP** and our guide **Dr. Ashu Abdul** for their continuous support and mentorship throughout the project.
+
+📚 **Publication Highlight:**  
+We are proud to have published a book chapter titled  
+**“Harnessing AI and Predictive Analytics for Competitive Decision-Making”**  
+with **IGI Global**, further reinforcing the practical relevance of our project work.
+
+---
+
