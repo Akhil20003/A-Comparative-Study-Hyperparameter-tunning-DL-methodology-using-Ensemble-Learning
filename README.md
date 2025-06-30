@@ -88,6 +88,10 @@ Each trial returns:
 - Models trained with early stopping to avoid overfitting.  
 - Real-time performance metrics enabled quick experimentation.  
 
+![image](https://github.com/user-attachments/assets/cdc6a6dc-25ad-4799-b7f3-1e0e000202f0)
+
+![image](https://github.com/user-attachments/assets/3ec217eb-4735-4889-8c9e-2b256698df2b)
+
 ---
 
 ## ✅ Conclusion & Social Impact
@@ -111,9 +115,9 @@ Each trial returns:
 
 ## ✍️ Authors
 
-- **Ganesh Sesha Sai Akhil Koutarapu** (AP21110010931)  
-- **Venkatesh Komalli** (AP21110010933)  
-- **Venkata Arun Kumar Perla** (AP21110010970)  
+- **Ganesh Sesha Sai Akhil Koutarapu**   
+- **Venkatesh Komalli**  
+- **Venkata Arun Kumar Perla**  
 - **Guide:** Dr. Ashu Abdul  
 
 ---
